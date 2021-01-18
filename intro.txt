@@ -1,0 +1,20 @@
+
+
+
+                 ,'|"\   ,-..-.   .-.,---.    .---.  ,---.  ,'|"\    .---.   .---.
+                 | |\ \  |(| \ \ / / | .-'   / .-. ) | .-'  | |\ \  / .-. ) / .-. ) |\    /|
+                 | | \ \ (_)  \ V /  | `-.   | | |(_)| `-.  | | \ \ | | |(_)| | |(_)|(\  / |
+                 | |  \ \| |   ) /   | .-'   | | | | | .-'  | |  \ \| | | | | | | | (_)\/  |
+                 /(|`-' /| |  (_)    |  `--. \ `-' / | |    /(|`-' /\ `-' / \ `-' / | \  / |
+                (__)`--' `-'         /( __.'  )---'  )\|   (__)`--'  )---'   )---'  | |\/| |
+                                    (__)     (_)    (__)            (_)     (_)     '-'  '-'
+
+
+                You, intrepid explorer, are a world-class deep-sea diver and treasure hunter.
+
+            Explore the wreckage of the ill-fated Calypso's Curse, a pirate ship which descended
+            to the sea floor for all of eternity following a mutinous battle between hired hands
+            and loyal crewmen.
+
+            Discover whether or not the legend of the Captain's treasure is true, and be sure get
+            back to your boat before your oxygen tank expires... or worse.
