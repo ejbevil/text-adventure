@@ -1,5 +1,7 @@
 # Dive of Doom
-**A CLI text-based adventure game in C++**
+A CLI text-based adventure game in C++
+
+*Please note: As school coursework, this project's content and coding style conform to assignment/instructor specifications.*
 
 ![intro image](images/screenshotintro.jpg)
 
