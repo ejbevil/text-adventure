@@ -1,9 +1,9 @@
 # Dive of Doom
 **A CLI text-based adventure game in C++**
 
-![intro image](https://i.imgur.com/LZe38R5.jpeg)
+![intro image](images/screenshotintro.jpg)
 
-![game play image](https://i.imgur.com/QnQfNy8.jpg)
+![game play image](images/screenshotgameplay.jpg)
 
 ## Compilation
 From command line: `make`\
